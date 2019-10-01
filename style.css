@@ -1,0 +1,16 @@
+*{
+	box-sizing: border-box;
+}
+
+body, html{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	width: 980px;
+	height: 125px;
+	background-color: paleturquoise;
+	text-align: center;
+	display: inline-block;
+}
