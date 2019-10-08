@@ -1,1 +1,2 @@
-https://mdbootstrap.com/docs/jquery/components/buttons-social/
+https://mdbootstrap.com/docs/jquery/components/buttons-social/   Botões de ícones
+https://www.madeinbrazil.com.br/ 	Loja para se espelhar
