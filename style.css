@@ -37,11 +37,22 @@ img{
 	width: 50px;
 	height: 60px;
 }
-.header .menu{
-	 margin-left: 10rem;
+
+.menu{
+	margin-left: 10rem;
 	margin-top: 3rem;
-	font-size: 3rem;
+	font-size: 1rem;
+	width: 65px;
+	height: 40px;
+	position: relative;
 }
+
+
+
+.buttonMenu{
+
+}
+
 .main{
 	width 100%;
 	background-color: lightgray;
@@ -104,4 +115,16 @@ img{
 .texto.second{
 	font-size: 15px;
 	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.option{
+	display: none;
+}
+
+.option.ativo{
+	display: block;
+}
+
+.menu .option{
+	position: absolute;
 }
